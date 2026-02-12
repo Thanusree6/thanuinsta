@@ -1,0 +1,84 @@
+body{
+	margin:0px;
+	font-family:arial;
+	background:#fff;
+}
+#insta{
+	width:50px;
+	height:50px;
+	border-radius: 10px;
+}
+.container{
+	display:flex;
+	height:100vh;
+}
+.left{
+	width:50%;
+	padding:60px;
+}
+.right{
+	width:50%;
+	padding:60px;
+	border-left:2px solid black;
+}
+.msg{
+	font-size:40px;
+	text-align:center;
+}
+.msg span{
+	font-family:cursive;
+	color:red;
+}
+input{
+	margin-bottom:20px;
+	width:500px;
+	height:50px;
+}
+button{
+	margin-bottom:20px;
+	width:500px;
+	height:50px;
+    padding: 10px;
+    border-radius: 30px;          
+    border: 1px solid #ccc;
+	margin-top:20px;
+	font-size:15px;
+}
+input:focus {
+  outline: 2px solid black;
+}
+
+ a{
+	 
+    margin-left:180px;
+}
+
+.meta{
+	margin-left:220;
+}
+.login{
+	background:rgb(75, 75, 207);
+	font-size:20px;
+	font-family:saris-serif;
+	color:white;
+}
+#pic{
+	width:400px;
+	height:300px;
+	margin-left:100px;
+}
+input {
+    margin-bottom: 20px;
+    width: 500px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 15px;          
+    border: 1px solid #ccc;   
+}
+.btn2{
+	border-color:rgb(72, 72, 205);
+	color:rgb(77, 77, 226);
+}
+
+
+
